@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ankitmalik7676/malik#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongodb": "^4.1.4",
-    "socker.io": "0.0.0-alpha-beta"
+    "socker.io": "0.0.0-alpha-beta",
+    "socket.io": "^4.3.2"
   }
 }
